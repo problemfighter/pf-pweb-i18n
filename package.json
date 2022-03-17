@@ -1,0 +1,13 @@
+{
+  "name": "@pfo/pf-pweb-i18n",
+  "version": "1.0.0",
+  "private": true,
+  "dependencies": {},
+  "scripts": {},
+  "eslintConfig": {
+    "extends": [
+      "react-app"
+    ]
+  },
+  "devDependencies": {}
+}
