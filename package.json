@@ -2,12 +2,19 @@
   "name": "@pfo/pf-pweb-i18n",
   "version": "1.0.0",
   "private": true,
-  "dependencies": {},
+  "dependencies": {
+    "i18next": "^21.6.14",
+    "react-i18next": "^11.16.1",
+    "i18next-browser-languagedetector": "^6.1.3"
+  },
   "scripts": {},
   "eslintConfig": {
     "extends": [
       "react-app"
     ]
   },
-  "devDependencies": {}
+  "devDependencies": {
+    "ts-loader": "^9.2.6",
+    "webpack": "^5.58.2"
+  }
 }
